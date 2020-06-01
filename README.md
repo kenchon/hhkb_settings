@@ -1,4 +1,6 @@
-# components
+Please refer to my [blog page](https://github.com/kenmikanmi/hhkb_settings) for detailed information.
+
+# files
 - `unimap.hex` is a configuration file for customizing keymap.
 - `load_hex.sh` is a script to reflesh keyboard according to the `.hex` file.
 
